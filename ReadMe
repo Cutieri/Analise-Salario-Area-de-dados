@@ -1,0 +1,47 @@
+# 📊 Análise de Dados Salariais na Área de Dados
+
+Este projeto realiza uma análise exploratória de dados salariais relacionados a profissões na área de dados, como **Cientista de Dados**, **Analista de Dados**, **Engenheiro de Dados**, entre outras.  
+O objetivo é entender padrões, tendências e possíveis fatores que influenciam a variação salarial.
+
+---
+
+## 🚀 Objetivos do Projeto
+
+- Explorar e limpar um conjunto de dados salariais.
+- Realizar análises estatísticas e comparações.
+- Criar visualizações para melhor compreensão das tendências.
+- Identificar possíveis fatores que afetam os salários, como localização, experiência e cargo.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Python**  
+- **Pandas** – Manipulação e limpeza de dados  
+- **NumPy** – Operações matemáticas  
+- **Matplotlib** & **Seaborn** – Visualização de dados  
+- **Jupyter Notebook** – Execução e documentação da análise  
+
+---
+
+
+## 📊 Principais Análises Realizadas
+
+- Distribuição salarial por cargo
+- Comparação salarial por nível de experiência
+- Correlações entre variáveis
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/Cutieri/Analise-Salario-Area-de-dados
+
+2. **Instale as dependências**
+    ```bash
+    pip install -r requirements.txt
+
+3. **Execute o app.py**
+    
